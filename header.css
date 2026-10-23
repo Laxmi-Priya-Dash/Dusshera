@@ -1,0 +1,30 @@
+.parent{
+	height: 500px;
+	display: flex;
+}
+.child1{
+	width: 60%;
+	background: rgb(42, 15, 26 );
+	display: flex;
+	justify-content: center;
+	align-items: left;
+	flex-direction: column;
+	padding: 200px;
+}
+.child1 h1{
+	color: white;
+	font-size: 80px;
+}
+.child1 p{
+	color: white;
+}
+#color{
+	color: yellow;
+}
+.child2{
+	width: 40%;
+}
+.child2 img{
+	width: 100%;
+	height: 100%;
+}

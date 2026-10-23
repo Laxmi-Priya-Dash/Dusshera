@@ -1,0 +1,18 @@
+.header{
+	display: flex;
+}
+.header1{
+	width: 40%;
+	background: rgb(20, 8, 14 );
+	color: whitesmoke;
+	padding: 10px;
+}
+.header2{
+	width: 60%;
+}
+.header1 p{
+	font-size: 25px;
+}
+.header1 h2{
+	font-size: 30px;
+}

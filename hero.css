@@ -1,0 +1,12 @@
+.head{
+	background: rgb(20, 8, 14 );
+	padding: 10px;
+}
+.head b,p{
+	color: white;
+}
+.head img{
+	height: 350px;
+	width: 300px;
+	padding: 30px;
+}

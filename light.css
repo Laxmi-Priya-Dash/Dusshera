@@ -1,0 +1,13 @@
+.light{
+	background: rgb(20, 8, 14 );
+	padding: 20px;
+}
+.light img{
+	height: 350px;
+	width: 300px;
+	padding: 30px;
+}
+.light h5,p{
+	font-size: 18px;
+	color: white;
+}
